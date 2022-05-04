@@ -16,7 +16,7 @@
 
 - ✔️ 01/mai/21 - Abertura
 - ✔️ 02/mai/21 - Stage 1 (1h48)
-- ❌ 03/mai/21 - Stage 2 ()
+- ✔️ 03/mai/21 - Stage 2 (1h57)
 - ❌ 04/mai/21 - Stage 3 ()
 - ❌ 05/mai/21 - Stage 4 ()
 - ❌ 06/mai/21 - Stage 5
