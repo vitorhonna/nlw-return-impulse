@@ -18,6 +18,6 @@
 - ✔️ 02/mai/21 - Stage 1 (1h48) - Front-end (React)
 - ✔️ 03/mai/21 - Stage 2 (1h57) - Front-end (React)
 - ✔️ 04/mai/21 - Stage 3 (2h00) - Back-end (Node.js)
-- ❌ 05/mai/21 - Stage 4 ()
+- ✔️ 05/mai/21 - Stage 4 (2h09) - Mobile (React Native)
 - ❌ 06/mai/21 - Stage 5 ()
 - ❌ 08/mai/21 - Encerramento
