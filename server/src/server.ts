@@ -8,6 +8,6 @@ app.use(cors()); // Determina quem pode consumir a API (neste caso está aberto 
 app.use(express.json());
 app.use(routes);
 
-app.listen(3333, () => {
+app.listen(process.env.PORT || 3333, () => {
     console.log('HTTP server running!')
 });
